@@ -1,10 +1,12 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './css/index.css'
+import Header from './components/Header'
+
 const App = () => {
   return (
-    <div>
-      <h1>Images Gallery</h1>
-
+    <div >
+      <Header title="Cadastro Centro de Custo" />
     </div>
-
   );
 }
 
