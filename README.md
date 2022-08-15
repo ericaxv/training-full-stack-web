@@ -1,3 +1,7 @@
+## Training in progress
+* This training use tecnologies as React, Python, Mongo DB and Docker
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
