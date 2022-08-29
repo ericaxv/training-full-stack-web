@@ -1,0 +1,1 @@
+## to install .venv run pipenv install, gitgnore will ignore all file .venv
