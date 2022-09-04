@@ -1,11 +1,7 @@
 {
     "_meta": {
         "hash": {
-<<<<<<< HEAD
-            "sha256": "fc582632d28a1942abea6a318ff4c87841191ef4d0f7b58096579f17c72d6ce6"
-=======
-            "sha256": "8073e584797abd78e12c3a678b33b3cbdf9e262d89d1b1bd0bec8662f1eca7c7"
->>>>>>> 2b1ddc73f6c59f3feef567a7a88f5d63ea75f1bf
+            "sha256": "3c771ccd200cbe539000cce298725b5f78186c8edc2454ac57fc37ea8615b388"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -59,6 +55,14 @@
             ],
             "index": "pypi",
             "version": "==2.1.0"
+        },
+        "flask-cors": {
+            "hashes": [
+                "sha256:74efc975af1194fc7891ff5cd85b0f7478be4f7f59fe158102e91abb72bb4438",
+                "sha256:b60839393f3b84a0f3746f6cdca56c1ad7426aa738b70d6c61375857823181de"
+            ],
+            "index": "pypi",
+            "version": "==3.0.10"
         },
         "idna": {
             "hashes": [
@@ -140,19 +144,11 @@
         },
         "python-dotenv": {
             "hashes": [
-<<<<<<< HEAD
                 "sha256:0c8d1b80d1a1e91717ea7d526178e3882732420b03f08afea0406db6402e220e",
                 "sha256:587825ed60b1711daea4832cf37524dfd404325b7db5e25ebe88c495c9f807a0"
             ],
             "index": "pypi",
             "version": "==0.15.0"
-=======
-                "sha256:b7e3b04a59693c42c36f9ab1cc2acc46fa5df8c78e178fc33a8d4cd05c8d498f",
-                "sha256:d92a187be61fe482e4fd675b6d52200e7be63a12b724abbf931a40ce4fa92938"
-            ],
-            "index": "pypi",
-            "version": "==0.20.0"
->>>>>>> 2b1ddc73f6c59f3feef567a7a88f5d63ea75f1bf
         },
         "requests": {
             "hashes": [
@@ -161,6 +157,14 @@
             ],
             "index": "pypi",
             "version": "==2.25.1"
+        },
+        "six": {
+            "hashes": [
+                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
+                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==1.16.0"
         },
         "typing-extensions": {
             "hashes": [
